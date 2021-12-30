@@ -25,7 +25,7 @@ last_name = "granger"
 full_name = f"{first_name} {last_name}"
 
 # f-string syntax for Python 3.5 and earlier
-# full_name = "{} {}".format(first_name. last_namei8)
+# full_name = "{} {}".format(first_name, last_name)
 
 # Output - hermoine granger
 print(full_name)
